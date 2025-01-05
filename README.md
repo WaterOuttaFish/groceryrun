@@ -28,5 +28,5 @@ Hopefully someone will find this useful like we did : D
 ![image](https://github.com/user-attachments/assets/272cc42d-1695-4022-a962-df0af34ef7d0)
 
 ### ChatGPT usage:
-Used ChatGPT in webscraping.py to implement to store cookies and generate random User-Agents. 
+Used ChatGPT in webscraping.py to implement cookies' storage and generate random User-Agents. 
 
